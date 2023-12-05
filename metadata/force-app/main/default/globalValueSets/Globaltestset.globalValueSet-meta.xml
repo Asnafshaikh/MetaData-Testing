@@ -11,9 +11,24 @@
         <label>B</label>
     </customValue>
     <customValue>
-        <fullName>FF</fullName>
+        <fullName>C</fullName>
         <default>false</default>
-        <label>FF</label>
+        <label>C</label>
+    </customValue>
+    <customValue>
+        <fullName>D</fullName>
+        <default>false</default>
+        <label>D</label>
+    </customValue>
+    <customValue>
+        <fullName>E</fullName>
+        <default>false</default>
+        <label>E</label>
+    </customValue>
+    <customValue>
+        <fullName>F</fullName>
+        <default>false</default>
+        <label>F</label>
     </customValue>
     <customValue>
         <fullName>G</fullName>
@@ -106,25 +121,16 @@
         <label>Nuance</label>
     </customValue>
     <customValue>
-        <fullName>C</fullName>
+        <fullName>FF</fullName>
         <default>false</default>
-        <label>C</label>
-    </customValue>
-    <customValue>
-        <fullName>D</fullName>
-        <default>false</default>
-        <label>D</label>
+        <isActive>false</isActive>
+        <label>FF</label>
     </customValue>
     <customValue>
         <fullName>YO</fullName>
         <default>false</default>
-        <label>YO</label>
-    </customValue>
-    <customValue>
-        <fullName>E</fullName>
-        <default>false</default>
         <isActive>false</isActive>
-        <label>E</label>
+        <label>YO</label>
     </customValue>
     <masterLabel>Globaltestset</masterLabel>
     <sorted>false</sorted>

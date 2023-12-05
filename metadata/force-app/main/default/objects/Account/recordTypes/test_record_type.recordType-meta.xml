@@ -26,10 +26,6 @@
             <default>false</default>
         </values>
         <values>
-            <fullName>FF</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>G</fullName>
             <default>false</default>
         </values>
@@ -545,10 +541,6 @@
         </values>
         <values>
             <fullName>D</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>FF</fullName>
             <default>false</default>
         </values>
         <values>
